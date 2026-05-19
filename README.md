@@ -1,4 +1,4 @@
-# Grafhics-project-358
+# Graphics-project-358
 
 🏀 Basketball Game using OpenGL
 
